@@ -1,0 +1,31 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Результат операции";
+}
+
+@section AdditionalFooter {
+}
+
+<h2 style="color: #ffffff;">Результат операции:</h2><div class="result-box">
+    <p>@ViewBag.Expression</p>
+</div>
+<div>
+    @Html.ActionLink("Вернуться к калькулятору", "Index")
+</div>
+
+<style>
+    .result-box {
+        background-color: #3d3d3d;
+        padding: 20px;
+        border-radius: 10px;
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .result-box p {
+        font-size: 18px;
+        color: #00cc66;
+        font-weight: bold;
+    }
+
+</style>

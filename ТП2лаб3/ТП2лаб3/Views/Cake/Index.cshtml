@@ -1,0 +1,16 @@
+﻿@{
+    Layout = null;
+}
+
+<h2>Добавление кондитерского изделия</h2>
+
+@using (Html.BeginForm())
+{
+    <div>ID: @Html.TextBox("id", null, new { type = "number" })</div>
+    <div>Название: @Html.TextBox("name")</div>
+    <div>Тип: @Html.TextBox("type")</div>
+    <div>Вес (г): @Html.TextBox("weight", null, new { type = "number" })</div>
+    <div>Цена (руб): @Html.TextBox("price", null, new { type = "number", step = "0.01" })</div>
+    <div>Ингредиенты: @Html.TextArea("ingredients", new { rows = 3 })</div>
+    <input type="submit" value="Сохранить" />
+}

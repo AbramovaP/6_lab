@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title - Калькулятор</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/Site.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Калькулятор</h1>
+        @RenderSection("CalculatorForm", required: false)
+
+        @RenderBody()
+
+        @RenderSection("AdditionalFooter", required: false)
+    </div>
+</body>
+</html>

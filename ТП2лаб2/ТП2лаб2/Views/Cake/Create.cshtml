@@ -1,0 +1,75 @@
+﻿@model ТП2лаб2.Models.Cake
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Добавление изделия";
+}
+
+<h2>Добавление нового кондитерского изделия</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelForModel("Информация об изделии:")
+
+    <div>
+        @Html.LabelFor(m => m.Name)
+        @Html.EditorFor(m => m.Name)
+        @Html.ValidationMessageFor(m => m.Name)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Type)
+        @Html.EditorFor(m => m.Type)
+        @Html.ValidationMessageFor(m => m.Type)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Weight)
+        @Html.EditorFor(m => m.Weight)
+        @Html.ValidationMessageFor(m => m.Weight)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Price)
+        @Html.EditorFor(m => m.Price)
+        @Html.ValidationMessageFor(m => m.Price)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.ProductionDate)
+        @Html.EditorFor(m => m.ProductionDate)
+        @Html.ValidationMessageFor(m => m.ProductionDate)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Ingredients)
+        @Html.EditorFor(m => m.Ingredients)
+        @Html.ValidationMessageFor(m => m.Ingredients)
+    </div>
+
+    <br />
+    <input type="submit" value="Сохранить" />
+    @Html.ActionLink("Назад к списку", "Index")
+}
+
+<style>
+    div {
+        margin: 10px 0;
+    }
+
+    label {
+        display: inline-block;
+        width: 150px;
+        font-weight: bold;
+    }
+
+    input, textarea {
+        width: 300px;
+        padding: 5px;
+    }
+
+    .field-validation-error {
+        color: red;
+        font-size: 12px;
+    }
+</style>

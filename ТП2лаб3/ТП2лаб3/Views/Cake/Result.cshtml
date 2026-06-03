@@ -1,0 +1,17 @@
+﻿@{
+    Layout = null;
+}
+
+<h2>Сохранённые данные</h2>
+
+<table border="1">
+    <tr><th>Поле</th><th>Значение</th></tr>
+    <tr><td>ID</td><td>@ViewBag.Id</td></tr>
+    <tr><td>Название</td><td>@ViewBag.Name</td></tr>
+    <tr><td>Тип</td><td>@ViewBag.Type</td></tr>
+    <tr><td>Вес (г)</td><td>@ViewBag.Weight</td></tr>
+    <tr><td>Цена (руб)</td><td>@ViewBag.Price</td></tr>
+    <tr><td>Ингредиенты</td><td>@ViewBag.Ingredients</td></tr>
+</table>
+
+@Html.ActionLink("Вернуться к форме", "Index")

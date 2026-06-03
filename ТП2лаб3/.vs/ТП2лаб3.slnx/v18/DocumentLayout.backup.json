@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|c:\\users\\polin\\source\\repos\\\u0442\u043F2\u043B\u0430\u04313\\\u0442\u043F2\u043B\u0430\u04313\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|solutionrelative:\u0442\u043F2\u043B\u0430\u04313\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|c:\\users\\polin\\source\\repos\\\u0442\u043F2\u043B\u0430\u04313\\\u0442\u043F2\u043B\u0430\u04313\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|solutionrelative:\u0442\u043F2\u043B\u0430\u04313\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|c:\\users\\polin\\source\\repos\\\u0442\u043F2\u043B\u0430\u04313\\\u0442\u043F2\u043B\u0430\u04313\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|solutionrelative:\u0442\u043F2\u043B\u0430\u04313\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|c:\\users\\polin\\source\\repos\\\u0442\u043F2\u043B\u0430\u04313\\\u0442\u043F2\u043B\u0430\u04313\\views\\cake\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|solutionrelative:\u0442\u043F2\u043B\u0430\u04313\\views\\cake\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|c:\\users\\polin\\source\\repos\\\u0442\u043F2\u043B\u0430\u04313\\\u0442\u043F2\u043B\u0430\u04313\\views\\cake\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|solutionrelative:\u0442\u043F2\u043B\u0430\u04313\\views\\cake\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|c:\\users\\polin\\source\\repos\\\u0442\u043F2\u043B\u0430\u04313\\\u0442\u043F2\u043B\u0430\u04313\\controllers\\cakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B678B828-3F15-470B-85E2-0D6329A7D3A5}|\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313.csproj|solutionrelative:\u0442\u043F2\u043B\u0430\u04313\\controllers\\cakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Views\\Cake\\Result.cshtml",
+              "RelativeDocumentMoniker": "\u0422\u041F2\u043B\u0430\u04313\\Views\\Cake\\Result.cshtml",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Views\\Cake\\Result.cshtml",
+              "RelativeToolTip": "\u0422\u041F2\u043B\u0430\u04313\\Views\\Cake\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T09:58:49.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstController.cs",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Controllers\\FirstController.cs",
+              "RelativeDocumentMoniker": "\u0422\u041F2\u043B\u0430\u04313\\Controllers\\FirstController.cs",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Controllers\\FirstController.cs",
+              "RelativeToolTip": "\u0422\u041F2\u043B\u0430\u04313\\Controllers\\FirstController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:56:12.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "\u0422\u041F2\u043B\u0430\u04313\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "\u0422\u041F2\u043B\u0430\u04313\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:59:00.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "\u0422\u041F2\u043B\u0430\u04313\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "\u0422\u041F2\u043B\u0430\u04313\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T10:18:33.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Views\\Cake\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u0422\u041F2\u043B\u0430\u04313\\Views\\Cake\\Index.cshtml",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Views\\Cake\\Index.cshtml",
+              "RelativeToolTip": "\u0422\u041F2\u043B\u0430\u04313\\Views\\Cake\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T09:58:17.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CakeController.cs",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Controllers\\CakeController.cs",
+              "RelativeDocumentMoniker": "\u0422\u041F2\u043B\u0430\u04313\\Controllers\\CakeController.cs",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\\u0422\u041F2\u043B\u0430\u04313\\\u0422\u041F2\u043B\u0430\u04313\\Controllers\\CakeController.cs",
+              "RelativeToolTip": "\u0422\u041F2\u043B\u0430\u04313\\Controllers\\CakeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:57:00.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

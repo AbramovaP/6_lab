@@ -1,0 +1,69 @@
+﻿@model ТП2лаб1.Models.CalculatorModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section CalculatorForm 
+{
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(false, "", new { @class = "error-summary" })
+
+        <div>
+            @Html.LabelFor(m => m.Operand1, "Первый операнд:")
+            @Html.TextBoxFor(m => m.Operand1, new { @class = "my-textbox" })
+        </div>
+
+        <div>
+            @Html.LabelFor(m => m.Operand2, "Второй операнд:")
+            @Html.TextBoxFor(m => m.Operand2, new { @class = "my-textbox" })
+        </div>
+
+        <div>
+            @Html.LabelFor(m => m.Operation, "Операция:")
+            <br />
+            @Html.ListBoxFor(m => m.Operation,
+                new SelectList(new[] { "+", "-", "*", "/" }),
+                new { size = 4, @class = "my-listbox" })
+        </div>
+
+        <div>
+            <input type="submit" name="actionButton" value="Вычислить" />
+            <input type="submit" name="actionButton" value="Очистить" />
+        </div>
+
+        if (Model.IsCalculated)
+        {
+            <div>
+                <h3>Результат: @Model.Result</h3>
+
+                @if (ViewBag.ActualResult != null)
+                {
+                    if (ViewBag.ActualResult == ViewBag.ExpectedResult)
+                    {
+                        <p style="color: green; font-weight: bold;">
+                            ✅ Результат совпадает с ожидаемым значением (@ViewBag.ExpectedResult)!
+                        </p>
+                    }
+                    else
+                    {
+                        <p style="color: orange; font-weight: bold;">
+                            ⚠️ Результат (@ViewBag.ActualResult) не совпадает с ожидаемым (@ViewBag.ExpectedResult).
+                        </p>
+                    }
+                }
+
+                <div>
+                    @Html.ActionLink("Показать результат в новом виде", "ShowResult",
+                        new
+                        {
+                            operand1 = Model.Operand1,
+                            operand2 = Model.Operand2,
+                            operation = Model.Operation,
+                            result = Model.Result
+                        })
+                </div>
+            </div>
+        }
+     }
+ }   
